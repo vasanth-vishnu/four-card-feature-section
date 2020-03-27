@@ -1,0 +1,162 @@
+body{
+  margin:0;
+  padding: 0;
+  background-color: hsl(0, 0%, 98%);
+
+
+}
+
+.header p,h1{
+  font-family: 'Poppins', sans-serif;
+  font-size: 29px;
+  text-align: center;
+  line-height: 9px;
+
+}
+.tagline
+{
+  font-family: 'Poppins' , sans-serif;
+  text-align: center;
+  line-height: 9px;
+  margin-top: 40px;
+
+}
+.bb
+{
+  background-color: white;
+  width:310px;
+  height:200px;
+  margin: auto;
+ border-style: solid;
+ border-width:6px 0px 0px;
+ border-color: hsl(212, 86%, 64%);
+ padding: 10px;
+ margin-top: 80px;
+}
+.header
+{
+  margin-top: 70px;
+}
+.img{
+  position: relative;
+  float: right;
+  top: -3px;
+  padding: 25px;
+}
+.bb h3,.bb p{
+  font-family: 'Poppins' , sans-serif;
+  text-align: left;
+  line-height: 11px;
+  padding-left: 5px;
+
+}
+.bb1
+{
+  background-color: white;
+  width:310px;
+  height:200px;
+  margin: auto;
+ border-style: solid;
+ border-width:6px 0px 0px;
+ border-color:hsl(34, 97%, 64%);
+ padding: 10px;
+ margin-top: 20px;
+}
+.bb1 h3,.bb1 p{
+  font-family: 'Poppins' , sans-serif;
+  text-align: left;
+  line-height: 25px;
+  padding-left: 5px;
+
+}
+.img1
+{
+  position: relative;
+  float: right;
+  top: -40px;
+  padding: 25px;
+}
+.bb2
+{
+  background-color: white;
+  width:310px;
+  height:200px;
+  margin: auto;
+ border-style: solid;
+ border-width:6px 0px 0px;
+ border-color:hsl(0, 78%, 62%);
+ padding: 10px;
+ margin-top: 20px;
+ position: absolute;
+ left:12%;
+ top:360px;
+}
+.bb2 h3,.bb2 p{
+  font-family: 'Poppins' , sans-serif;
+  text-align: left;
+  line-height: 25px;
+  padding-left: 5px;
+
+}
+.img2
+{
+  position: relative;
+  float: right;
+  top: -29px;
+  padding: 30px;
+}
+.bb3
+{
+  background-color: white;
+  width:310px;
+  height:200px;
+  margin: auto;
+ border-style: solid;
+ border-width:6px 0px 0px;
+ border-color:hsl(180, 62%, 55%);
+ padding: 10px;
+ margin-top: 20px;
+ position: absolute;
+ right:12%;
+ top:360px;
+}
+.bb3 h3,.bb3 p{
+  font-family: 'Poppins' , sans-serif;
+  text-align: left;
+  line-height: 25px;
+  padding-left: 5px;
+
+}
+.img3
+{
+  position: relative;
+  float: right;
+  top: -29px;
+  padding: 30px;
+}
+a,.bot p
+{
+  text-decoration: none;
+
+  font-family: 'Poppins' ,sans-serif;
+  font-size:20px;
+}
+.bot{
+  position: absolute;
+  left: 35%;
+  margin-top: 30px;
+}
+.btn
+{
+  border-style: solid;
+  border-width: 0px;
+  border-radius: 10px;
+  background-color:hsl(180, 62%, 55%);
+}
+.tex{
+  color: white;
+}
+.btn:hover
+{
+  background-color: hsl(212, 86%, 64%);
+}
